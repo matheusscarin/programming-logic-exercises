@@ -49,7 +49,7 @@ Você pode acessar o resultado do desafio [clicando aqui](https://github.com/mat
 
 - JavaScript
 
-## :abacus: Calculadora de Partidas Rankeadas
+## :abacus: 2º Desafio: Calculadora de Partidas Rankeadas
 
 Objetivo: criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retornar o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas).
 
