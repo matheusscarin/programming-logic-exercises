@@ -11,7 +11,7 @@ O que precisava ser feito: criar um código para armazenar o máximo de informa�
 
 ### :open_file_folder: Acesso ao Resultado
 
-Você pode acessar o resultado do desafio clicando aqui.
+Você pode acessar o resultado do desafio [clicando aqui](https://github.com/matheusscarin/programming-logic-exercises/blob/main/desafioSurpresa.js).
 
 **Linguagem de Programação Utilizada:**
 
