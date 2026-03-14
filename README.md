@@ -93,7 +93,7 @@ Objetivo: criar uma classe genérica que represente um héroi de uma aventura, p
 
 ### :open_file_folder: Acesso ao Resultado
 
-Você pode acessar o resultado do desafio [clicando aqui]().
+Você pode acessar o resultado do desafio [clicando aqui](https://github.com/matheusscarin/programming-logic-exercises/blob/main/desafioEscrevendoAsClassesDeUmJogo.js).
 
 **Linguagem de Programação Utilizada:**
 

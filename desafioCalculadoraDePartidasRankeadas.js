@@ -22,4 +22,4 @@ function partidasRankeadas(nomeDoHeroi, vitorias, derrotas){
     return [saldoDeVitorias, nivel]
 }
 
-console.log(`O Herói tem saldo de vitórias de ${resultado[0]} e está no nível de ${resultado[1]}!`)
+console.log(`O Herói tem saldo de vitórias de ${resultado[0]} e está no nível de ${resultado[1]}.`)

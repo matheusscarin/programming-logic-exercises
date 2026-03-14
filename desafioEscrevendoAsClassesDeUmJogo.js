@@ -23,7 +23,7 @@ class heroi {
             default:    
                 ataque = "indefinido"
         }
-        console.log(`O ${this.tipo} atacou usando ${ataque}!`)
+        console.log(`O ${this.tipo} atacou usando ${ataque}.`)
     }
     
 }
