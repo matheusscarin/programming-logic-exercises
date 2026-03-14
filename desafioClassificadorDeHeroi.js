@@ -6,7 +6,7 @@ let heroi = [
 for (i = 0; i < heroi.length; i++){
     let nomeHeroi = heroi[i][0]
     let xp = heroi[i][1]
-    let nivelHeroi = ""
+    let nivelHeroi
 
 if (xp <= 1000){
     nivelHeroi = "Ferro"    
@@ -22,7 +22,7 @@ if (xp <= 1000){
     nivelHeroi = "Ascendente"
 } else if (xp <= 10000){
     nivelHeroi = "Imortal"
-} else if (xp>= 10001){
+} else {
     nivelHeroi = "Radiante"
 }
 

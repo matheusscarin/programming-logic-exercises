@@ -1,13 +1,11 @@
 <h1 align="center"> Desafios de Código: Formação em Lógica de Programação :brain: </h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 Trata-se de um repositório de desafios de códigos propostos pela Formação em Lógica de Programação da DIO. O objetivo deste repositório é concentrar os desafios propostos pelo(a) professor(a) para auxiliar na fixação do conteúdo do curso.
 A seguir listarei todos os desafios e, em seguida, o acesso ao resultado.
 
 ## :ghost: Desafio Surpresa: Programar um Algoritmo do Centro Pokémon
 
-O que precisava ser feito: criar um código para armazenar o máximo de informações possível dos pokémons e ao final, para cada um, exibir uma mensagem de saída com o nome do pokémon concatenado com "Cadastrado com sucesso".
+Objetivo: criar um código para armazenar o máximo de informações possível dos pokémons e ao final, para cada um, exibir uma mensagem de saída com o nome do pokémon concatenado com "Cadastrado com sucesso".
 
 ### :open_file_folder: Acesso ao Resultado
 
@@ -74,6 +72,28 @@ O que utilizar: variáveis, operadores, laços de repetição (se necessário), 
 ### :open_file_folder: Acesso ao Resultado
 
 Você pode acessar o resultado do desafio [clicando aqui](https://github.com/matheusscarin/programming-logic-exercises/blob/main/desafioCalculadoraDePartidasRankeadas.js).
+
+**Linguagem de Programação Utilizada:**
+
+- JavaScript
+
+## :boxing_glove: 3º Desafio: Escrevendo as Classes de Um Jogo
+
+Objetivo: criar uma classe genérica que represente um héroi de uma aventura, possuindo as propriedades nome, idade, tipo, bem como deve haver um método chamado atacar que deve atender os seguintes requisitos:
+
+- Exibir mensagem "o {tipo} atacou usando {ataque}" onde o {tipo} deve ser aquele que consta na propriedade da classe e o {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
+
+    - Se mago, usar magia
+
+    - Se guerreiro, usar espada
+
+    - Se monge, usar artes marciais
+
+    - Se ninja, usar shuriken
+
+### :open_file_folder: Acesso ao Resultado
+
+Você pode acessar o resultado do desafio [clicando aqui]().
 
 **Linguagem de Programação Utilizada:**
 

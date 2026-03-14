@@ -3,7 +3,7 @@ let resultado = partidasRankeadas("Felipão", 25000, 3)
 
 function partidasRankeadas(nomeDoHeroi, vitorias, derrotas){    
     let saldoDeVitorias = vitorias - derrotas
-    let nivel = ""
+    let nivel
         if (saldoDeVitorias <= 10){
             nivel = "Ferro"
         } else if (saldoDeVitorias <= 20){
@@ -16,11 +16,10 @@ function partidasRankeadas(nomeDoHeroi, vitorias, derrotas){
             nivel = "Diamante"
         } else if (saldoDeVitorias <= 100){
             nivel = "Lendário"
-        } else if (saldoDeVitorias >= 101){
+        } else {
             nivel = "Imortal"
         } 
     return [saldoDeVitorias, nivel]
 }
 
 console.log(`O Herói tem saldo de vitórias de ${resultado[0]} e está no nível de ${resultado[1]}!`)
-
