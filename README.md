@@ -1,4 +1,4 @@
-<h1 align="center"> Desafios de Código: Formação em Lógica de Programação :brain: </h1>
+<h1 align="center"> Desafios de Código: Formação Lógica de Programação :brain: </h1>
 
 Trata-se de um repositório de desafios de códigos propostos pela Formação em Lógica de Programação da DIO. O objetivo deste repositório é concentrar os desafios propostos pelo(a) professor(a) para auxiliar na fixação do conteúdo do curso.
 A seguir listarei todos os desafios e, em seguida, o acesso ao resultado.
